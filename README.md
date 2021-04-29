@@ -1,4 +1,4 @@
-# Aqui criamos um servidor de minecraft
+# Here we created a minecraft server
 ## Configure:
-- Abra o forge.jar e forge(...).jar
-- Após isto abra o start.bat :)
+- Open the forge.jar and forge(...).jar
+- After that open start.bat :)
